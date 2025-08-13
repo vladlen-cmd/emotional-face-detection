@@ -1,1 +1,1 @@
-# emotional-face-detection
+# Emotion recognition using facial expressions
